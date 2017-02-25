@@ -4,7 +4,7 @@
 
 ## 1. 在Github上新建仓库
 
-申请Github账号，并且新建仓库，仓库名称必须为 username.github.io 
+申请Github账号，并且新建仓库，仓库名称必须为 **username.github.io**
 
 * 新建仓库
 
