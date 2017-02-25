@@ -6,6 +6,14 @@
 
 申请Github账号，并且新建仓库，仓库名称必须为 username.github.io 
 
+* 新建仓库
+
+![Screenshot](img/新建仓库.PNG)
+
+* 命名为 username.github.io
+
+![Screenshot](img/命名.PNG)
+
 ## 2. 在本地新建Github项目
 ```
 echo "# username.github.io" >> README.md

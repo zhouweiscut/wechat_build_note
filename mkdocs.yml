@@ -2,6 +2,7 @@
 pages:
     - Home: 'index.md'
     - Mkdocs: 
+      - index : 'mkdocs.md'
       - Release on Github: 'github_site_release.md'
     - About: 'about.md'
 theme: readthedocs
