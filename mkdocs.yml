@@ -1,5 +1,7 @@
-site_name: MkLorum
+﻿site_name: MkLorum
 pages:
-    - Home: index.md
-    - About: about.md
+    - Home: 'index.md'
+    - Mkdocs: 
+      - Release on Github: 'github_site_release.md'
+    - About: 'about.md'
 theme: readthedocs
